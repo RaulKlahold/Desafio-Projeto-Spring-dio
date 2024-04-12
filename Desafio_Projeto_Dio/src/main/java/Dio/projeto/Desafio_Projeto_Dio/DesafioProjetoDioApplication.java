@@ -9,5 +9,5 @@ public class DesafioProjetoDioApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DesafioProjetoDioApplication.class, args);
 	}
-     System.out.println("Teste");
+
 }
