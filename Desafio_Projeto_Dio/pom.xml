@@ -28,8 +28,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-openfeign</artifactId>
-		</dependency>
+			<artifactId>sp</dependency>
 
 		<dependency>
 			<groupId>com.h2database</groupId>
