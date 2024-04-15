@@ -4,7 +4,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import one.digitalinnovation.gof.model.Endereco;
+import Dio.projeto.Desafio_Projeto_Dio.model.Endereco;
 
 /**
  * Client HTTP, criado via <b>OpenFeign</b>, para o consumo da API do

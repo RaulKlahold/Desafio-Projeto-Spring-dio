@@ -1,4 +1,4 @@
-package Dio.projeto.Desafio_Projeto_Dio.controler.ClienteRestController;
+package Dio.projeto.Desafio_Projeto_Dio.controler;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-//import one.digitalinnovation.gof.model.Cliente;
-//import one.digitalinnovation.gof.service.ClienteService;
+import Dio.projeto.Desafio_Projeto_Dio.model.Cliente;
+import Dio.projeto.Desafio_Projeto_Dio.service.ClienteService;
 
 /**
  * Esse {@link RestController} representa nossa <b>Facade</b>, pois abstrai toda
